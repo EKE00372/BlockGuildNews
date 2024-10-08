@@ -1,0 +1,15 @@
+local function OnEvent()
+	SetGuildNewsFilter(1, 0)
+	SetGuildNewsFilter(2, 0)
+	SetGuildNewsFilter(3, 0)
+	SetGuildNewsFilter(4, 0)
+	SetGuildNewsFilter(5, 0)
+	SetGuildNewsFilter(6, 0)
+	SetGuildNewsFilter(7, 0)
+	SetGuildNewsFilter(8, 0)
+	SetGuildNewsFilter(9, 0)
+end
+
+local frame = CreateFrame("FRAME", nil)
+	frame:RegisterEvent("PLAYER_LOGIN") 
+	frame:SetScript("OnEvent", OnEvent)

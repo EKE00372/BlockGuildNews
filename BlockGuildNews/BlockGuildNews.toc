@@ -1,0 +1,10 @@
+## Interface: 110002, 110005
+## Title: BlockGuildNews
+## Title-zhTW: BlockGuildNews 自動關閉公會新聞
+## Title-zhCN: BlockGuildNews 自动关闭公会新闻
+## Notes: Un-check All Guild News
+## IconTexture: "Interface\\Buttons\\WHITE8x8"
+## Version: R1
+## X-Credits: HopeASD
+
+BlockGuildNews.lua
