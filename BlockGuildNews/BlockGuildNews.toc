@@ -1,4 +1,4 @@
-## Interface: 110002, 110005
+## Interface: 110005, 110007
 ## Title: BlockGuildNews
 ## Title-zhTW: BlockGuildNews 自動關閉公會新聞
 ## Title-zhCN: BlockGuildNews 自动关闭公会新闻
